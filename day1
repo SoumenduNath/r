@@ -19,7 +19,7 @@ print(e+d)
 
 
 Ba=data.frame(
-Name=c("Riju","Bitt"),
+Name=c("Riju","Bittu"),
 Age=c(21,23),
 Salary=c(100,200)
 )
